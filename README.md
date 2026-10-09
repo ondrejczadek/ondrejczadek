@@ -4,14 +4,13 @@
 IT student from Prague, building software and turning ideas into real-world applications. Interested in full-stack development, AI/ML, computer vision, networks, and cybernetics.
 
 **What I Do**
-- Build full-stack web applications
 - Experiment with AI and machine learning
 - Turn ideas into working projects
 
 **Tech Stack**
-- **Languages:** Python · JavaScript · C# · SQL
+- **Languages:** Python · Rust · JavaScript · C#
 - **Backend & Data:** PostgreSQL · OpenCV · NumPy · Pandas
-- **Tools:** Docker · Linux · Git · Tailscale
+- **Tools:** Docker · Linux · Git
 
 **Currently**
 Building personal projects, exploring AI/ML, deepening my software engineering knowledge.
